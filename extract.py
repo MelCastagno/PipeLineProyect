@@ -29,7 +29,7 @@ def fetch_weather_data(api_key, lat, lon):
         return None
 
 if __name__ == "__main__":
-    API_KEY = 'cb9e5d92569a0fc4a4c9fece9f2db98f'  
+    API_KEY = 'APY KEY'  
     LAT = 41.3851  # Latitude for Barcelona
     LON = 2.1734    # Longitude for Barcelona
 
