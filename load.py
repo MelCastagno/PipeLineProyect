@@ -48,7 +48,7 @@ if __name__ == "__main__":
     INPUT_FILE = 'transformed_weather_data.csv'
     DB_NAME = 'weather_data'
     USER = 'weather_user'
-    PASSWORD = 'password123'  # Reemplaza con tu contraseña real
+    PASSWORD = 'PASSWORD'  
     HOST = 'localhost'
     PORT = 3306
     TABLE_NAME = 'weather'
